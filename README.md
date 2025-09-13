@@ -1,16 +1,13 @@
 <h2 align="left">Bienvenue sur mon profil GitHub!</h2>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
 <p align="left">Je suis passionné par la conception et le développement d’applications robustes, évolutives et orientées utilisateurs. <br>Mon objectif est de transformer des idées en solutions numériques performantes.</p>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank" rel="noopener noreferrer">
+    <img height="50" src="https://i.ibb.co/9kM5SbS3/linkedin.png" alt="LinkedIn">
+  </a>
   <a href="https://matthieuclaessens.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img height="50" src="https://i.ibb.co/gLq4zbjp/Capture-d-cran-2025-09-01-124457.png" alt="Logo">
+    <img height="50" src="https://i.ibb.co/CKTy8D4R/portfolio.png" alt="Portfolio">
   </a>
 </div>
 
@@ -31,7 +28,8 @@
   - <strong>Maquettage & Design :</strong> Figma, Penpot, Balsamiq <br>
   - <strong>Bases de données :</strong> MySQL, MongoDB <br>
   - <strong>DevOps :</strong> Docker, GitHub Actions, CI/CD <br>
-  - <strong>Méthodes :</strong> Agile / Scrum, conception UML (en cours d'apprentissage)
+  - <strong>Méthodes :</strong> Agile / Scrum, conception UML
+  - <strong>Environnements :</strong> Windows, Linux
 </p>
 
 
@@ -44,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
