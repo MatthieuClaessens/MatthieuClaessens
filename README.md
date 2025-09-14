@@ -28,7 +28,7 @@
   - <strong>Maquettage & Design :</strong> Figma, Penpot, Balsamiq <br>
   - <strong>Bases de données :</strong> MySQL, MongoDB <br>
   - <strong>DevOps :</strong> Docker, GitHub Actions, CI/CD <br>
-  - <strong>Méthodes :</strong> Agile / Scrum, conception UML
+  - <strong>Méthodes :</strong> Agile / Scrum, conception UML</br>
   - <strong>Environnements :</strong> Windows, Linux
 </p>
 
