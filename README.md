@@ -1,65 +1,77 @@
-<h2 align="left">Bienvenue sur mon profil GitHub!</h2>
+# 👋 Bienvenue sur mon profil GitHub !
 
-<p align="left">Je suis passionné par la conception et le développement d’applications robustes, évolutives et orientées utilisateurs. <br>Mon objectif est de transformer des idées en solutions numériques performantes.</p>
+**Développeur Full-Stack Passionné**  
+*Transformer des idées en solutions numériques performantes*
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank" rel="noopener noreferrer">
-    <img height="50" src="https://i.ibb.co/9kM5SbS3/linkedin.png" alt="LinkedIn">
-  </a>
-  <a href="https://matthieuclaessens.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img height="50" src="https://i.ibb.co/CKTy8D4R/portfolio.png" alt="Portfolio">
-  </a>
+<a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank" rel="noopener noreferrer">
+  <img height="70" src="https://i.ibb.co/9kM5SbS3/linkedin.png" alt="LinkedIn" style="margin: 0 15px;">
+</a>
+<a href="https://matthieuclaessens.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img height="70" src="https://i.ibb.co/CKTy8D4R/portfolio.png" alt="Portfolio" style="margin: 0 15px;">
+</a>
 </div>
 
-<h3 align="left">🚀 Ce que je fais</h3>
 
-<p align="left">
-  - 📱 Développement d’applications web et mobiles <br>
-  - 🗄️ Conception et gestion de bases de données <br>
-  - 🎨 Intégration d’interfaces modernes et ergonomiques <br>
-  - 🔄 Mise en place de bonnes pratiques (tests, CI/CD, clean code)
-</p>
+---
 
-<h3 align="left">Compétences Techniques</h3>
+## 🚀 Ce que je fais
 
-<p align="left">
-  - <strong>Langages :</strong> HTML5, CSS3, JavaScript, JAVA <br>
-  - <strong>Front-end / UI :</strong> React, Bootstrap, Tailwind, SASS <br>
-  - <strong>Maquettage & Design :</strong> Figma, Penpot, Balsamiq <br>
-  - <strong>Bases de données :</strong> MySQL, MongoDB <br>
-  - <strong>DevOps :</strong> Docker, GitHub Actions, CI/CD <br>
-  - <strong>Méthodes :</strong> Agile / Scrum, conception UML</br>
-  - <strong>Environnements :</strong> Windows, Linux
-</p>
+- 💻 **Développement Full-Stack** : Applications web avec React & Spring Boot
+- 🎨 **UI/UX Design** : Interfaces modernes avec Figma & Tailwind CSS
+- 🗄️ **Bases de données** : Conception et optimisation MySQL
+- 🔧 **Architecture** : Code propre, tests et bonnes pratiques
 
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+## 🛠️ Stack Technique
+
+<div align="center">
+
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+
+### 🎨 Design
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white" alt="Penpot" />
+
+### 💻 Backend
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatthieuClaessens/MatthieuClaessens/fa743d00fc37279fc838d274075f00e6cd3a4c3a/pacman-contributions.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatthieuClaessens/MatthieuClaessens/fa743d00fc37279fc838d274075f00e6cd3a4c3a/pacman-contributions.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatthieuClaessens/MatthieuClaessens/fa743d00fc37279fc838d274075f00e6cd3a4c3a/pacman-contributions.svg">
-</picture>
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatthieuClaessens&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthieuClaessens&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+## 📈 Statistiques GitHub
+
+<div align="center">
+
+| 🔥 Streak | 📊 Stats | 💻 Top Languages |
+|:---:|:---:|:---:|
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatthieuClaessens&theme=chartreuse-dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=MatthieuClaessens&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuClaessens&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact) |
+
+</div>
+
+<div align="center">
+
+![Contributions](https://raw.githubusercontent.com/MatthieuClaessens/MatthieuClaessens/fa743d00fc37279fc838d274075f00e6cd3a4c3a/pacman-contributions.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**💡 Envie de collaborer ? N'hésitez pas à me contacter !**
+
 </div>
