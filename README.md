@@ -1,30 +1,33 @@
-# 👋 Bienvenue sur mon profil GitHub !
+# 👋 Welcome to my GitHub Profile!
 
-**Développeur Full-Stack Passionné**  
-*Transformer des idées en solutions numériques performantes*
+**Passionate Full-Stack Developer**  
+*Turning ideas into high-performance digital solutions*
+
+
+---
 
 <div align="center">
 <a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank" rel="noopener noreferrer">
-  <img height="70" src="https://i.ibb.co/9kM5SbS3/linkedin.png" alt="LinkedIn" style="margin: 0 15px;">
+  <img src="https://i.ibb.co/chkRHNDf/image.png" alt="LinkedIn">
 </a>
 <a href="https://matthieuclaessens.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img height="70" src="https://i.ibb.co/CKTy8D4R/portfolio.png" alt="Portfolio" style="margin: 0 15px;">
+  <img  src="https://i.ibb.co/7HRXpX8/image.png" alt="Portfolio">
 </a>
 </div>
 
+---
+
+## 🚀 What I Do
+
+- 💻 **Full-Stack Development:** Building web applications using React & Spring Boot  
+- 🎨 **UI/UX Design:** Crafting modern interfaces with Figma & Tailwind CSS  
+- 🗄️ **Databases:** Designing and optimizing MySQL structures  
+- 🐳 **Docker:** Containerizing and deploying scalable apps  
+- 🔧 **Architecture:** Clean code, testing, and best practices  
 
 ---
 
-## 🚀 Ce que je fais
-
-- 💻 **Développement Full-Stack** : Applications web avec React & Spring Boot
-- 🎨 **UI/UX Design** : Interfaces modernes avec Figma & Tailwind CSS
-- 🗄️ **Bases de données** : Conception et optimisation MySQL
-- 🔧 **Architecture** : Code propre, tests et bonnes pratiques
-
----
-
-## 🛠️ Stack Technique
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -48,13 +51,13 @@
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
 
 ---
 
-## 📈 Statistiques GitHub
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -74,6 +77,6 @@
 
 <div align="center">
 
-**💡 Envie de collaborer ? N'hésitez pas à me contacter !**
+**💡 Want to collaborate? Feel free to reach out!**
 
 </div>
