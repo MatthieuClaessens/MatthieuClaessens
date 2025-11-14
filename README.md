@@ -7,13 +7,15 @@
 ---
 
 <div align="center">
-<a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.ibb.co/chkRHNDf/image.png" alt="LinkedIn">
-</a>
-<a href="https://matthieuclaessens.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img  src="https://i.ibb.co/7HRXpX8/image.png" alt="Portfolio">
-</a>
+  <a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank">
+    <img src="linkedin_button.png" alt="LinkedIn" width="260" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://matthieuclaessens.vercel.app/" target="_blank">
+    <img src="portfolio_button.png" alt="Portfolio" width="260" />
+  </a>
 </div>
+
 
 ---
 
