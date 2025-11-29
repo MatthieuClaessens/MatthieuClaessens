@@ -56,7 +56,6 @@
 |:-----------:|:--------:|:--------------:|:---------------:|
 | **[gestionEleves](https://github.com/baptisterou/gestionEleves/)** | **Key Contributor** | Java • Spring • React • PostgreSQL • Tailwind | Student management platform - Active PRs |
 | [RoyalTech](https://github.com/MatthieuClaessens/RoyalTech) | **Full-Stack Developer** | React • Java • Spring • Thymeleaf • Tailwind | Full-stack web application (Nov 2025) |
-| [MemberFlow](https://github.com/MatthieuClaessens/MemberFlow) | **Frontend Lead** | React • JavaScript • Tailwind | Membership management system |
 
 </div>
 
