@@ -54,10 +54,9 @@
 
 | **Project** | **Role** | **Tech Stack** | **Description** |
 |:-----------:|:--------:|:--------------:|:---------------:|
-| **[gestionEleves](https://github.com/baptisterou/gestionEleves/)** | **Key Contributor** | Kotlin • Spring Boot • React • MySQL | Student management platform - Active PRs |
-| [RoyalTech](https://github.com/MatthieuClaessens/RoyalTech) | **Full-Stack Developer** | React • Java | Full-stack web application (Nov 2025) |
-| [UserAPI](https://github.com/MatthieuClaessens/UserAPI) | **Lead Developer** | Spring Boot • Java | User management REST API |
-| [MemberFlow](https://github.com/MatthieuClaessens/MemberFlow) | **Frontend Lead** | React • JavaScript | Membership management system |
+| **[gestionEleves](https://github.com/baptisterou/gestionEleves/)** | **Key Contributor** | Java • Spring • React • PostgreSQL • Tailwind | Student management platform - Active PRs |
+| [RoyalTech](https://github.com/MatthieuClaessens/RoyalTech) | **Full-Stack Developer** | React • Java • Spring • Thymeleaf • Tailwind | Full-stack web application (Nov 2025) |
+| [MemberFlow](https://github.com/MatthieuClaessens/MemberFlow) | **Frontend Lead** | React • JavaScript • Tailwind | Membership management system |
 
 </div>
 
@@ -92,7 +91,6 @@
 <div align="center">
 
 **💡 Want to collaborate? Feel free to reach out!**  
-**🇫🇷 Disponible pour stage / freelance • 🇬🇧 Open to internships / freelance**  
 **💬 Full-Stack  • Open Source projects**  
 
 <div align="center">
