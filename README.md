@@ -24,7 +24,7 @@
 
 **Building scalable web solutions from concept to production**
 
-- 💻 **Full-Stack**: React, TypeScript, **Kotlin**, Spring Boot, Java
+- 💻 **Full-Stack**: React, TypeScript, **Kotlin**, Spring Boot, Java, **PHP**
 - 🎨 **UI/UX**: Tailwind CSS, Figma, Bootstrap, Penpot
 - 🗄️ **Databases**: MySQL, PostgreSQL, UML/Merise
 - 🐳 **DevOps**: Docker, Git, Jenkins CI/CD
@@ -42,7 +42,7 @@
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
 | | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| | | | | ![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white) |
+| | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | | | ![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white) |
 
 </div>
 
@@ -81,16 +81,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-| 🔥 Streak | 📊 Stats | 💻 Top Languages |
-|:---:|:---:|:---:|
-| ![Streak](https://streak-stats.demolab.com?user=MatthieuClaessens&theme=chartreuse-dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=MatthieuClaessens&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuClaessens&layout=compact&theme=chartreuse-dark&hide_border=true) |
-
-</div>
-
 <div align="center">
 
 ![Contributions](https://raw.githubusercontent.com/MatthieuClaessens/MatthieuClaessens/fa743d00fc37279fc838d274075f00e6cd3a4c3a/pacman-contributions.svg)
@@ -102,11 +92,12 @@
 <div align="center">
 
 **💡 Want to collaborate? Feel free to reach out!**  
-**💬 Full-Stack • Kotlin • Open Source projects**  
+**🇫🇷 Disponible pour stage / freelance • 🇬🇧 Open to internships / freelance**  
+**💬 Full-Stack  • Open Source projects**  
+
 <div align="center">
   <a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank">
     <img src="linkedin_button.png" alt="LinkedIn" width="260" />
   </a>
-
-
+</div>
 </div>
