@@ -1,10 +1,12 @@
-# 👋 Welcome to my GitHub Profile!
+# 👋 Welcome / Bienvenue sur mon Profil GitHub!
 
-**Passionate Full-Stack Developer**  
-*Turning ideas into high-performance digital solutions*
+**Matthieu Claessens** | **Full-Stack Developer**  
+*Application Developer Trainee (Bac+4) | AFPA France | React • Kotlin • Spring Boot • Docker*  
+📍 France 🥖
 
-
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=61DAFB&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+-+Développeur+Fullstack;Solution+Creator+-+Créateur+de+solutions;Digital+Architect+-+Architecte+Digital;Code+Artisan+-+Artisan+du+code;Open+Source+-+Open+Source;Always+Learning+-+Toujours+en+apprentissage;React+Specialist+-+Spécialiste+React" alt="Bilingual Typing SVG" />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank">
@@ -16,44 +18,64 @@
   </a>
 </div>
 
+---
+
+## 🚀 What I Do / Ce que je fais
+
+**Building scalable web solutions from concept to production**
+
+- 💻 **Full-Stack**: React, TypeScript, **Kotlin**, Spring Boot, Java
+- 🎨 **UI/UX**: Tailwind CSS, Figma, Bootstrap, Penpot
+- 🗄️ **Databases**: MySQL, PostgreSQL, UML/Merise
+- 🐳 **DevOps**: Docker, Git, Jenkins CI/CD
+- 🔧 **Best Practices**: Clean Code, REST APIs, Unit Testing
+- 🤝 **Open Source**: Active GitHub contributor
 
 ---
 
-## 🚀 What I Do
-
-- 💻 **Full-Stack Development:** Building web applications using React & Spring Boot  
-- 🎨 **UI/UX Design:** Crafting modern interfaces with Figma & Tailwind CSS  
-- 🗄️ **Databases:** Designing and optimizing MySQL structures  
-- 🐳 **Docker:** Containerizing and deploying scalable apps  
-- 🔧 **Architecture:** Clean code, testing, and best practices  
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 2025
 
 <div align="center">
 
-### 🌐 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+| **Frontend** | **Backend** | **Database** | **DevOps** | **Design** |
+|:------------:|:-----------:|:------------:|:----------:|:----------:|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| | | | | ![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white) |
 
-### 🎨 Design
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white" alt="Penpot" />
+</div>
 
-### 💻 Backend
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+---
+
+## 🔥 Featured Projects / Projets Phares
+
+<div align="center">
+
+| **Project** | **Role** | **Tech Stack** | **Description** |
+|:-----------:|:--------:|:--------------:|:---------------:|
+| **[gestionEleves](https://github.com/baptisterou/gestionEleves/)** | **Key Contributor** | Kotlin • Spring Boot • React • MySQL | Student management platform - Active PRs |
+| [RoyalTech](https://github.com/MatthieuClaessens/RoyalTech) | **Full-Stack Developer** | React • Java | Full-stack web application (Nov 2025) |
+| [UserAPI](https://github.com/MatthieuClaessens/UserAPI) | **Lead Developer** | Spring Boot • Java | User management REST API |
+| [MemberFlow](https://github.com/MatthieuClaessens/MemberFlow) | **Frontend Lead** | React • JavaScript | Membership management system |
+
+</div>
+
+---
+
+## 🌟 Open Source Contributions
+
+<div align="center">
+
+[![gestionEleves](https://img.shields.io/badge/gestionEleves-Active%20Contributor-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baptisterou/gestionEleves/)
+
+**Student Management Platform / Plateforme de gestion élèves**  
+**[Repo →](https://github.com/baptisterou/gestionEleves/)** | **[My PRs →](https://github.com/baptisterou/gestionEleves/pulls?q=is%3Apr+author%3AMatthieuClaessens)**
+
+**Key Contributions / Contributions clés :**  
+ 🔧 **REST APIs** - Security & performance improvements  
+ 📱 **React Frontend** - Responsive UI enhancements  
+ 🗄️ **MySQL** - Schema optimization & queries  
 
 </div>
 
@@ -65,7 +87,7 @@
 
 | 🔥 Streak | 📊 Stats | 💻 Top Languages |
 |:---:|:---:|:---:|
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatthieuClaessens&theme=chartreuse-dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=MatthieuClaessens&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuClaessens&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact) |
+| ![Streak](https://streak-stats.demolab.com?user=MatthieuClaessens&theme=chartreuse-dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api?username=MatthieuClaessens&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthieuClaessens&layout=compact&theme=chartreuse-dark&hide_border=true) |
 
 </div>
 
@@ -79,6 +101,12 @@
 
 <div align="center">
 
-**💡 Want to collaborate? Feel free to reach out!**
+**💡 Want to collaborate? Feel free to reach out!**  
+**💬 Full-Stack • Kotlin • Open Source projects**  
+<div align="center">
+  <a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank">
+    <img src="linkedin_button.png" alt="LinkedIn" width="260" />
+  </a>
+
 
 </div>
