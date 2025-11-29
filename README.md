@@ -1,7 +1,7 @@
 # 👋 Welcome / Bienvenue sur mon Profil GitHub!
 
 **Matthieu Claessens** | **Full-Stack Developer**  
-*Application Developer Trainee (Bac+4) | AFPA France | React • Kotlin • Spring Boot • Docker*  
+*Application Developer Trainee (Bac+4) | AFPA France | React • Java • Spring Boot • Docker*  
 📍 France 🥖
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 **Building scalable web solutions from concept to production**
 
-- 💻 **Full-Stack**: React, TypeScript, **Kotlin**, Spring Boot, Java, **PHP**
+- 💻 **Full-Stack**: React, TypeScript, Kotlin, Spring Boot, Java, PHP
 - 🎨 **UI/UX**: Tailwind CSS, Figma, Bootstrap, Penpot
 - 🗄️ **Databases**: MySQL, PostgreSQL, UML/Merise
 - 🐳 **DevOps**: Docker, Git, Jenkins CI/CD
