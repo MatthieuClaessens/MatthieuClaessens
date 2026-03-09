@@ -1,7 +1,7 @@
 # 👋 Welcome / Bienvenue sur mon Profil GitHub!
 
-**Matthieu Claessens** | **Full-Stack Developer**  
-*Application Developer Trainee (Bac+4) | AFPA France | React • Java • Spring Boot • Docker*  
+**Matthieu Claessens** | **Full-Stack Developer**
+*Concepteur Développeur d'Applications (Bac+4) | AFPA France | React • Java • Spring Boot • Docker*
 📍 France 🥖
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 **Building scalable web solutions from concept to production**
 
-- 💻 **Full-Stack**: React, TypeScript, Kotlin, Spring Boot, Java, PHP
+- 💻 **Full-Stack**: React, TypeScript, Spring Boot, Java
 - 🎨 **UI/UX**: Tailwind CSS, Figma, Bootstrap, Penpot
 - 🗄️ **Databases**: MySQL, PostgreSQL, UML/Merise
 - 🐳 **DevOps**: Docker, Git, Jenkins CI/CD
@@ -33,16 +33,16 @@
 
 ---
 
-## 🛠️ Tech Stack 2025
+## 🛠️ Tech Stack
 
 <div align="center">
 
 | **Frontend** | **Backend** | **Database** | **DevOps** | **Design** |
 |:------------:|:-----------:|:------------:|:----------:|:----------:|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | | | ![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| | | | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| | | | | ![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white) |
 
 </div>
 
@@ -55,6 +55,7 @@
 | **Project** | **Role** | **Tech Stack** | **Description** |
 |:-----------:|:--------:|:--------------:|:---------------:|
 | **[gestionEleves](https://github.com/baptisterou/gestionEleves/)** | **Key Contributor** | Java • Spring • React • PostgreSQL • Tailwind | Student management platform - Active PRs |
+
 </div>
 
 ---
@@ -65,13 +66,13 @@
 
 [![gestionEleves](https://img.shields.io/badge/gestionEleves-Active%20Contributor-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baptisterou/gestionEleves/)
 
-**Student Management Platform / Plateforme de gestion élèves**  
+**Student Management Platform / Plateforme de gestion élèves**
 **[Repo →](https://github.com/baptisterou/gestionEleves/)** | **[My PRs →](https://github.com/baptisterou/gestionEleves/pulls?q=is%3Apr+author%3AMatthieuClaessens)**
 
-**Key Contributions / Contributions clés :**  
- 🔧 **REST APIs** - Security & performance improvements  
- 📱 **React Frontend** - Responsive UI enhancements  
- 🗄️ **MySQL** - Schema optimization & queries  
+**Key Contributions / Contributions clés :**
+🔧 **REST APIs** — Security & performance improvements
+📱 **React Frontend** — Responsive UI enhancements
+🗄️ **MySQL** — Schema optimization & queries
 
 </div>
 
@@ -87,12 +88,11 @@
 
 <div align="center">
 
-**💡 Want to collaborate? Feel free to reach out!**  
-**💬 Full-Stack  • Open Source projects**  
+**💡 Want to collaborate? Feel free to reach out!**
+**💬 Full-Stack • Open Source projects**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank">
-    <img src="linkedin_button.png" alt="LinkedIn" width="260" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/matthieu-claessens/" target="_blank">
+  <img src="linkedin_button.png" alt="LinkedIn" width="260" />
+</a>
+
 </div>
