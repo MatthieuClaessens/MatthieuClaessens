@@ -83,10 +83,35 @@ Passionate about creating robust and intuitive web applications, from concept to
 ## 🔥 Featured Projects
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td width="400">
-        <h3 align="center">gestionEleves</h3>
+      <td width="480" valign="top">
+        <h3 align="center">🚀 PingR</h3>
+        <p align="center">
+          <strong>RESTful Instant Messaging System</strong>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Java_21-orange?style=flat-square&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-2026-61DAFB?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/PostgreSQL-18.1-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://github.com/MatthieuClaessens/PingR">🔗 View Repository</a>
+          •
+          <a href="https://github.com/MatthieuClaessens/PingR#-software-architecture-uml">📐 Architecture</a>
+        </p>
+        <p align="left">
+          <strong>✨ Engineering Focus:</strong><br/>
+          • N-Tier Architecture & DTO Pattern<br/>
+          • JWT Security (Session Isolation)<br/>
+          • Full Docker Orchestration<br/>
+          • UML/MERISE modeling
+        </p>
+      </td>
+      <td width="480" valign="top">
+        <h3 align="center">🎓 gestionEleves</h3>
         <p align="center">
           <strong>Student Management Platform</strong>
         </p>
@@ -103,9 +128,10 @@ Passionate about creating robust and intuitive web applications, from concept to
         </p>
         <p align="left">
           <strong>✨ Key Contributions:</strong><br/>
-          • Optimized REST APIs (security & performance)<br/>
-          • Responsive React frontend<br/>
-          • Database optimization & queries
+          • Optimized REST APIs (Security)<br/>
+          • Responsive React Frontend<br/>
+          • SQL Optimization & Queries<br/>
+          • Collaborative Git Flow
         </p>
       </td>
     </tr>
