@@ -186,5 +186,5 @@ Passionate about creating robust and intuitive web applications, from concept to
   
   <br>
   
-  <sub>⚡ *"Code is like humor. When you have to explain it, it's bad."* – Cory House</sub>
+  <sub>⚡ *"Code is like humor. When you have to explain it, it's bad."* - Cory House</sub>
 </div>
